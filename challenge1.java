@@ -1,5 +1,5 @@
 // displays a greeting message
-public class Welcome { //class declaration
+public class challenge1 { //class declaration
 
     void sayHello() { //method declaration (void doesn't return any value)
         System.out.println("Welcome home"); //print statement
