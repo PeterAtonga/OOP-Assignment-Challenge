@@ -1,6 +1,6 @@
 // variables
 
-public class variables {
+public class challenge2 {
     void showProfit() {
         double sales;
         double cost;
